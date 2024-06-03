@@ -8,7 +8,6 @@ Full Stack Developer
 * 🖥️  See my portfolio at [My website](http://rohitmane.vercel.app)
 * ✉️  You can contact me at [rohitmane8356@gmail.com](mailto:rohitmane8356@gmail.com)
 * 🚀  I'm currently working on [AirBnb-Clone](https://airbnb-clone-made.netlify.app/)
-* 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating on interesting projects involving React
 
 ### Skills
